@@ -1,0 +1,1 @@
+# Krita-Full-Version
