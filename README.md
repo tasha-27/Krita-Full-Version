@@ -243,4 +243,4 @@ This repository serves as the official landing page for Krita. The software is d
 **Get the most recent version of Krita today!**
 
 ---
-**Last updated:** 2026-10-23 22:48:01 UTC
+**Last updated:** 2026-10-24 01:17:43 UTC
